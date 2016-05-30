@@ -13,8 +13,8 @@
 	"Achievement":"Won class vote for best video",
 	"Class":"Info360",
 	"Url1":"https://www.youtube.com/watch?v=GvWolXRuYsA",
-	"Url2":"/files/info360_design.docx",
-	"Url3":"/files/info360_final.pdf",
+	"Url2":"files/info360_design.docx",
+	"Url3":"files/info360_final.pdf",
 	"Description":"<p>Class: Design Thinking</p><p>&emsp;&emsp;Designed an insole that can be inserted into your shoes to track unique data from your foot as well as a mobile app interface that displays that information in a user-friendly manner. </p><p class=\"boldText\">What we learned: designing for transitions, user personas, scenarios, user research, user interviews, contextual interviews, participatory design, user testing, A/B testing, design decisions, wireframes, mockups, as well as physical and digital prototyping.</p>"
 	},
 
@@ -22,8 +22,8 @@
 	"Title":"A to Z",
 	"Achievement":"Voted best project overall in class",
 	"Class":"Info330",
-	"Url1":"/files/info330_final_ppt.pdf",
-	"Url2":"/files/info330_final_doc.pdf",
+	"Url1":"files/info330_final_ppt.pdf",
+	"Url2":"files/info330_final_doc.pdf",
 	"Description":"<p>Class: UX and Information Architecture Class</p><p>&emsp;&emsp;This is another project where my group won the overall class vote. We designed a ride-sharing platform for the modern hitchhiker. While brainstorming any problems we faced on a daily basis, I had the idea of combining Uber with modern hitchhiking. If you’re driving somewhere and have an open spot in your car, why not lend that spot to someone going the same direction to make some extra money? We designed this solution before Uber started to incorporate this type of carpooling system as well. This was another group project where I got to collaborate with other ambitious peers and we were taught a lot of business ideas as well that intertwined with our thinking on user experience. </p><p class=\"boldText\">What I learned: User experience, User interface, user personas, business proposals, budgeting, marketing, presentation, content strategy, and interactive design.</p>"
 	}
 ]
