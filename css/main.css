@@ -89,6 +89,23 @@ body {
 	color: #7fff7f;
 }
 
+#homeWords {
+	background-color: black;
+	margin-bottom: 120px;
+	padding: 20px;
+	padding-bottom: 60px;
+}
+/*
+.homeWords:hover {
+	fill: rgba(0,0,0,0);
+	text-shadow: 0 0 20px #FBFE8B;
+}
+.homeWords {
+	-webkit-transition: all 0.7s ease;
+	transition: all 0.7s ease;
+}
+*/
+
 #homeVideo {
 	background-color: black;
 	margin-bottom: 120px;
